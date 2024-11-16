@@ -159,6 +159,9 @@ Example:
 ```cpp
 n = n & (n - 1);
 ```
+Example:
+
+a=n<<2;
 
 ## 4. Applications of Bit Manipulation
 - **Data Compression**: Bit manipulation is used in compression algorithms (e.g., Huffman encoding) to represent data in fewer bits.
