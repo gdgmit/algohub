@@ -7,7 +7,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 const About: React.FC = () => {
   return (
     <Layout
-      title="About Us"
+      title="About Us Algohub"
       description="Learn more about our mission and team members."
     >
       <div className="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200">
