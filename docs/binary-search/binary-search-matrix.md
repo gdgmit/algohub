@@ -67,8 +67,8 @@ public class BinarySearchInMatrix {
         BinarySearchInMatrix searcher = new BinarySearchInMatrix();
         int[][] matrix = {
             {1, 3, 5, 7},
-            {10, 11, 16, 20},
-            {23, 30, 34, 60}
+            {45, 11, 16, 20},
+            {29, 26, 67, 56}
         };
         int target = 3;
         boolean result = searcher.searchMatrix(matrix, target);
