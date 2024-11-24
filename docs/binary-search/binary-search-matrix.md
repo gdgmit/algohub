@@ -10,7 +10,7 @@ tags: [dsa, algorithms, binary search, matrix]
 ## Introduction
 Binary Search in a Matrix is an extension of the binary search algorithm used for a two-dimensional matrix. In a sorted 2D matrix where each row and column are sorted, binary search can be applied to search for an element efficiently. This is particularly useful when working with large matrices where a linear search would be too slow.
 
-To apply binary search in a matrix, the matrix is treated as a flattened sorted array (while maintaining the row and column structure), and binary search is performed using the virtual array indices.
+To apply binary search in a matrix, the matrix is treated as a flattened sorted array (while maintaining the row and column structure), and binary search is performed using the virtual array indices.TO apply binary search in a matrix,the matrix is treated as a flattened sorted array.
 
 ## Implementation
 
@@ -28,7 +28,7 @@ We are given an `m x n` matrix where each row is sorted in ascending order from 
 ### Points to Remember:
     Binary search requires that the matrix is sorted both row-wise and column-wise.
     
-    Works effectively for two-dimensional arrays.
+    Works effectively for two-dimensional arrays than one dimensional array.
     
     Faster and more efficient than sequential search, especially for larger datasets.
     

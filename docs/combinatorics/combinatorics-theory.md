@@ -12,7 +12,7 @@ tags: [Competitive Programming,math,counting]
 
 ## Introduction to Combinatorics
 
-Combinatorics is a branch of mathematics dealing with combinations, arrangements, and counting of objects. In the context of Data Structures and Algorithms (DSA), combinatorial techniques are used to solve problems related to counting, arrangement, and selection of data. These techniques are crucial in algorithm design and analysis, particularly in fields like graph theory, probability, and optimization.
+Combinatorics is a branch of mathematics dealing with combinations, arrangements, and counting of objects. In the context of Data Structures and Algorithms (DSA), combinatorial techniques are used to solve problems related to counting, arrangement, and selection of data. These techniques are crucial in algorithm design and analysis, particularly in fields like graph theory, probability, and optimization. It is useful in real world. 
 
 ## Fundamental Concepts
 
